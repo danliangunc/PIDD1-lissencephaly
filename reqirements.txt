@@ -1,0 +1,7 @@
+Seurat=4.3.0
+ggplot2=3.5.1
+dplyr=1.1.4
+RColorBrewer=1.1-3
+pheatmap=1.0.12
+SingleCellExperiment=3.19
+DoubletFinder=2.0
