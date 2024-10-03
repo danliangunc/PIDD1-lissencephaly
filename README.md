@@ -22,7 +22,7 @@ Follow this [instrucion](https://cran.r-project.org/web/packages/BiocManager/vig
 It will take 45min to install all packages.
 
 ## Demo and Instructions for use
-Once the user get the processed rds file, users could use R studio to run all the script.
+Once the user get the processed rds file, users could use R studio to run all the script. Depends on the size of the processed file, the script may need as long as 5 hours to finish.
 
 A demo data can be found from Seurat [tutorial](https://satijalab.org/seurat/articles/pbmc3k_tutorial.html).
-The excepted output can be found in the supplemental tables in the manuscript.
+The excepted output can be found in the supplemental tables in the manuscript. 
