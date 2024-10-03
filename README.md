@@ -8,4 +8,5 @@ If you have any question about the code, please email Dan Liang: dan.liang@yale.
 
 ## R package dependencies
 
+Please check the reqirements.txt[https://github.com/danliangunc/PIDD1-lissencephaly/blob/main/reqirements.txt] for dependencies.
 
